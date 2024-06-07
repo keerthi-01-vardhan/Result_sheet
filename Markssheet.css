@@ -1,0 +1,31 @@
+button{
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
+body{
+    text-align: center;
+  
+}
+.mark{
+    margin-left: 400px;
+    padding: 10px;
+   
+}
+.pass{
+margin-left: 525px;
+margin-top: 50px;
+
+
+}
+.nom{
+margin-right: 500px;
+}

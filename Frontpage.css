@@ -1,0 +1,44 @@
+body{
+    background: url(Images/image1.jpeg);
+    background-size: cover;
+ }
+ h2{
+     color: white;
+     text-align: center;
+     font-family: sans-serif;
+     margin-top: 16s0spx;
+     font-size: 30px;
+     padding: 20px;
+ }
+ h2 input{
+     width: 200px;
+     height: 30px;
+ }
+ button{
+     margin-left: 650px;
+     border-radius: 5px;
+     width: 150px;
+     height: 30px;
+    background-color:black;
+     
+     
+ }
+ button:hover{
+     background-color: green;
+    
+ }
+ button a:hover{
+     color: white    ;
+ }
+ button a{
+     text-decoration: none;
+ }
+ h1{
+     color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+ }
+ .vtu{
+     margin-top: 100px;
+ }
